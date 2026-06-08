@@ -4,21 +4,21 @@ This repository serves as an index of my React.js learning journey and projects.
 
 ## Projects
 
-### Netflix Clone
+### 1. Netflix Clone
 
 A responsive Netflix-inspired UI built using React.js.
 
 Repository:
 https://github.com/developerkapil11/NetflixClone
 
-### YouTube Clone
+### 2. YouTube Clone
 
 A modern YouTube clone with video browsing features.
 
 Repository:
 https://github.com/developerkapil11/youtubeClone
 
-### Swiggy Clone
+### 3. Swiggy Clone
 
 A food delivery application UI inspired by Swiggy.
 
